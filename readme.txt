@@ -4,4 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files
 Test for pushing into the GitHub
 Create a new branch is quick and simple
-Use nano to edit this file
+Use nano to edit this file.
