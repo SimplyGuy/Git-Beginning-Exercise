@@ -5,3 +5,4 @@ Git tracks changes of files
 Test for pushing into the GitHub
 Create a new branch is quick and simple
 Use nano to edit this file.
+This is a test for stash in master.
